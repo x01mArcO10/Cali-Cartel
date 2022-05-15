@@ -1,0 +1,63 @@
+
+body
+{background: black;}
+
+#navigation {
+    color: white;
+    background-color: black;
+    font-size: 60px;
+    text-align: center;
+    margin: 20px;
+}
+
+
+
+#Patron {
+    color: white;
+    background-color: black;
+    font-size: 50px;
+    text-align: center;
+    margin: 20px;
+}
+
+#Leader {
+    color: white;
+    background-color: black;
+    font-size: 50px;
+    text-align: center;
+    margin: 20px;
+}
+
+#Buchhalter {
+    color: white;
+    background-color: black;
+    font-size: 50px;
+    text-align: center;
+    margin: 20px;
+}
+
+#Shot-Caller {
+    color: white;
+    background-color: black;
+    font-size: 50px;
+    text-align: center;
+    margin: 20px;
+}
+
+#Mitglieder {
+    color: white;
+    background-color: black;
+    font-size: 50px;
+    text-align: center;
+    margin: 20px;
+}
+
+
+
+#Cali-Mitglieder {
+    
+    font-size: 50px;
+    text-align: center;
+    margin: 20px;
+    
+}
